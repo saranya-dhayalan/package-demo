@@ -1,0 +1,22 @@
+{
+  "name": "package-demo",
+  "version": "1.0.0",
+  "description": "addition",
+  "main": "(addition.ts)",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saranya-dhayalan/package-demo.git"
+  },
+  "keywords": [
+    "add"
+  ],
+  "author": "saranya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saranya-dhayalan/package-demo/issues"
+  },
+  "homepage": "https://github.com/saranya-dhayalan/package-demo#readme"
+}
